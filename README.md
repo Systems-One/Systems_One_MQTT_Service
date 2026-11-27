@@ -11,6 +11,13 @@ Built by Systems One to give one central view of many workstations.
 </div>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/systems-one-dark.png">
+    <img src="docs/assets/systems-one.png" height="52" alt="Systems One">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://github.com/Systems-One/Systems_One_MQTT_Service/releases/latest"><b>Latest release</b></a> ·
   <a href="#documentation"><b>Documentation</b></a> ·
   <a href="Collectors/Database/README.md">Database collection rules</a> ·
